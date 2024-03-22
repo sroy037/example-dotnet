@@ -25,4 +25,4 @@ git clone https://github.com/srcclr/example-dotnet
 msbuild example-dotnet/
 srcclr scan example-dotnet/
 ```
-Test1
+Test
